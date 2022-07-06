@@ -1,0 +1,7 @@
+.badge {
+    top: 20% !important;
+}
+
+.position-fixed {
+    z-index: 1;
+}
